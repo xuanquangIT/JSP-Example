@@ -11,9 +11,9 @@
     <!-- Database connection -->
     <properties>
         <!-- JDBC connection properties -->
-        <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://103.97.126.29:3306/wqljesqc_murach"/>
-        <property name="jakarta.persistence.jdbc.user" value="wqljesqc_murach"/>
-        <property name="jakarta.persistence.jdbc.password" value="GYUu3jzwsTCENcgeV5Am"/>
+        <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://103.97.126.29:3306/your_db"/>
+        <property name="jakarta.persistence.jdbc.user" value="your_username"/>
+        <property name="jakarta.persistence.jdbc.password" value="your_password"/>
         <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
 
         <!-- Hibernate settings -->
